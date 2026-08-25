@@ -1,0 +1,5 @@
+{
+  "name": "Frappe Books",
+  "user": "ubuntu",
+  "install": "bash .cursor/install.sh"
+}
